@@ -13,11 +13,11 @@ npm install -g generator-serverless
 Generate your new service:
 
 ```bash
-yo serverless:create_aws_node
+yo @monooso/serverless:create_aws_node
 ```
 
-[npm-image]: https://badge.fury.io/js/generator-serverless.svg
-[npm-url]: https://npmjs.org/package/generator-serverless
+[npm-image]: https://badge.fury.io/js/@monooso/generator-serverless.svg
+[npm-url]: https://npmjs.org/package/@monooso/generator-serverless
 [travis-image]: https://travis-ci.org/monooso/generator-serverless.svg?branch=master
 [travis-url]: https://travis-ci.org/monooso/generator-serverless
 [daviddm-image]: https://david-dm.org/monooso/generator-serverless.svg?theme=shields.io

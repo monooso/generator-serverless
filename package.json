@@ -1,8 +1,8 @@
 {
-  "name": "generator-serverless",
   "version": "0.0.0",
   "description": "Serverless code generators",
   "homepage": "https://github.com/monooso/generator-serverless",
+  "name": "@monooso/generator-serverless",
   "repository": "monooso/generator-serverless",
   "license": "MIT",
   "author": {
