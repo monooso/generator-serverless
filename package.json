@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
   "name": "@monooso/generator-serverless",
+  "version": "1.0.0",
   "description": "Yeoman generators for the Serverless Framework",
   "homepage": "https://github.com/monooso/generator-serverless#readme",
   "repository": "monooso/generator-serverless",
