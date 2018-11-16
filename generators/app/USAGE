@@ -1,0 +1,5 @@
+Description:
+    Serverless code generators
+
+Available generators:
+    yo serverless:create_aws_node

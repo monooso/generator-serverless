@@ -1,0 +1,47 @@
+{
+  "name": "generator-serverless",
+  "version": "0.0.0",
+  "description": "Serverless code generators",
+  "homepage": "https://github.com/monooso/generator-serverless",
+  "repository": "monooso/generator-serverless",
+  "license": "MIT",
+  "author": {
+    "name": "Stephen Lewis",
+    "email": "stephen@experiencehq.net",
+    "url": "https://experiencehq.net"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "serverless",
+    "yeoman-generator"
+  ],
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "yeoman-generator": "^2.0.1",
+    "yosay": "^2.0.1"
+  },
+  "scripts": {
+    "test": "standard && mocha",
+    "test-watch": "standard && mocha --reporter min --watch"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "standard": "^12.0.1",
+    "yeoman-assert": "^3.1.0",
+    "yeoman-test": "^1.7.0"
+  },
+  "standard": {
+    "enable": true,
+    "run": "onType",
+    "ignore": [
+      "node_modules/**"
+    ]
+  }
+}
