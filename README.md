@@ -21,7 +21,7 @@ Generate your new service:
 yo @monooso/serverless:create_aws_node
 ```
 
-[npm-image]: https://badge.fury.io/js/@monooso/generator-serverless.svg
+[npm-image]: https://badge.fury.io/js/%40monooso%2Fgenerator-serverless.svg
 [npm-url]: https://npmjs.org/package/@monooso/generator-serverless
 [travis-image]: https://travis-ci.org/monooso/generator-serverless.svg?branch=master
 [travis-url]: https://travis-ci.org/monooso/generator-serverless
