@@ -1,5 +1,10 @@
-# generator-serverless [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Serverless service generators
+# Yeoman generators for the Serverless Framework #
+
+[![NPM version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
+
+Opinionated Yeoman generators for the Serverless Framework.
 
 ## Installation ##
 Install [Yeoman](https://yeoman.io) and generator-serverless using [npm](https://www.npmjs.com/).

@@ -1,8 +1,8 @@
 {
   "version": "0.0.0",
-  "description": "Serverless code generators",
-  "homepage": "https://github.com/monooso/generator-serverless",
   "name": "@monooso/generator-serverless",
+  "description": "Yeoman generators for the Serverless Framework",
+  "homepage": "https://github.com/monooso/generator-serverless#readme",
   "repository": "monooso/generator-serverless",
   "license": "MIT",
   "author": {
@@ -15,6 +15,8 @@
   ],
   "main": "generators/index.js",
   "keywords": [
+    "aws",
+    "lambda",
     "serverless",
     "yeoman-generator"
   ],
